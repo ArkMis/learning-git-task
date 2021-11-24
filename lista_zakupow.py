@@ -1,6 +1,6 @@
 # Zadanie 1
 shop_dict=dict()
-shop_dict['cukiernia']=['chałka', 'pączek', 'bułki']
+shop_dict['cukiernia']=['chałka', 'pączek', 'tort']
 shop_dict['warzywniak']=['marchew', 'seler', 'pietruszka','ziemniaki']
 print('Lista zakupów')
 count=0
